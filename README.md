@@ -1,7 +1,4 @@
 # AI + Materials Lab — Learning Journey
-git status
-git add .
-git commit -m "update readme"
-git push
+
 
 
