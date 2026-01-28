@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 环境
+venv/
+env/
+.env
+
+# 数据文件（根据实际情况调整）
+*.csv
+*.pkl
+*.h5
+*.npy
+data/raw/
+data/processed/
+
+# 日志和输出
+logs/
+output/
+models/
